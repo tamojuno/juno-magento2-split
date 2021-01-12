@@ -4,9 +4,9 @@
 ---------------
 Adicione e configure o módulo para oferecer a Juno como opção de pagamento dentro de sua loja Magento. 
 
-O módulo foi desenvolvido com base na nossa **API 1.0**. Você pode acessar a documentação base abaixo: 
+O módulo foi desenvolvido com base na nossa **API 2.0**. Você pode acessar a documentação base abaixo: 
 
-https://dev.juno.com.br/api/v1
+https://dev.juno.com.br/api/v2
 
 ## Requisitos
 
@@ -23,7 +23,7 @@ Você pode fazer seu cadastro clicando [aqui](https://app.juno.com.br/).
 
 - Vá até o diretório raíz do seu projeto magento e execute os passos abaixo.
 
-`composer require juno/magento2:dev-master`
+`composer require juno/magento2-split:dev-master`
 
 Caso seja a primeira vez instalando um componente magento, suas credenciais serão solicitadas. Para entender como e onde preenchê-las, utilize os steps da [documentação oficial](http://devdocs.magento.com/guides/v2.0/install-gde/prereq/connect-auth.html) do Magento em caso de dúvidas. 
 
