@@ -23,7 +23,7 @@ Você pode fazer seu cadastro clicando [aqui](https://app.juno.com.br/).
 
 - Vá até o diretório raíz do seu projeto magento e execute os passos abaixo.
 
-`composer require juno/magento2-split:dev-master`
+`composer require juno/magento2-split:dev-main`
 
 Caso seja a primeira vez instalando um componente magento, suas credenciais serão solicitadas. Para entender como e onde preenchê-las, utilize os steps da [documentação oficial](http://devdocs.magento.com/guides/v2.0/install-gde/prereq/connect-auth.html) do Magento em caso de dúvidas. 
 
